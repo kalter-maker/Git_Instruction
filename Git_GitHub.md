@@ -12,3 +12,9 @@
 
 
 ![Форк](./assets/github_fork.png)
+
+---
+
+[Назад](./git_start.md) | 
+[Вперед](./Настройка_VSCode.md) | 
+[Главная](./readme.md)

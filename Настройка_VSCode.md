@@ -36,3 +36,8 @@
 
 ![afterDelay](./assets/commonlyUsed.png)
 
+---
+
+[Назад](./Git_GitHub.md) | 
+[Вперед](./gitignore.md) | 
+[Главная](./readme.md)
